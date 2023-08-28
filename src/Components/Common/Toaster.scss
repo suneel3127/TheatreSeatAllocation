@@ -1,0 +1,30 @@
+.custom-toaster {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 999;
+    opacity: 0;
+    transition: opacity 0.3s;
+    pointer-events: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+  }
+  
+  .show {
+    opacity: 1;
+    pointer-events: auto;
+  }
+  .hide{
+    display:none;
+  }
+  
+  .success {
+    background-color: #28a745 !important;
+  }
+  
+  .error {
+    background-color: #dc3545 !important;
+  }

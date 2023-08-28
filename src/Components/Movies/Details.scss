@@ -1,0 +1,52 @@
+.moviedetailscontainer{
+    display: flex;
+      width: 100%;
+      justify-content: space-around;
+      padding: 20px;
+  }
+  .movie-info{
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    justify-content: space-evenly;
+  }
+  .detailsSection{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .time-info{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    width: -webkit-fill-available;
+  }
+  .showlabel{
+    display: flex;
+    color: red;
+    font-size: 20px;
+    justify-content: center;
+  }
+  .showsContainer{
+    display: flex;
+    align-items: center;
+  }
+  .notActiveTime{
+    border: 0.5px solid grey;
+    padding: 5px 30px;
+    color: green;
+    background-color: white;
+  }
+  .notActiveTime:hover{
+    border: 0.5px solid grey;
+    padding: 5px 30px;
+    color: white;
+    background-color: lightgreen;
+    cursor: pointer;
+  }
+  .activeTime{
+    border: 0.5px solid grey;
+    padding: 5px 30px;
+    color: white;
+    background-color: green;
+  }

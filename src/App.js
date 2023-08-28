@@ -1,24 +1,32 @@
-import logo from './logo.svg';
+
 import './App.css';
+import { Routes,Route } from 'react-router-dom';
+import Details from './Components/Movies/Details';
+import Header from './Components/Header/Header';
+import Seats from './Components/Movies/Seats';
+import store from './Redux/store';
+import { Provider } from 'react-redux';
+import {UserAuthContextProvider } from "./Components/Login/UserAuthContext"
+import Login from "./Components/Login/Login";
+import Signup from "./Components/Login/Signup";
+import MovieListing from "./Components/Movies/MovieListing"
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <UserAuthContextProvider>
+      <Provider store = {store}>
+        <Header/>
+          <Routes>
+            <Route path="/" element={<MovieListing />} />
+            <Route path="/moviedetails/:id" element = {<Details />} />
+            <Route path="/moviedetails/:id/seats" element = {<Seats />} />
+            <Route path="/signin" element={<Login />} />
+            <Route path="/signup" element={<Signup />} />
+          </Routes>
+      </Provider>
+    </UserAuthContextProvider>
+    </>
   );
 }
 

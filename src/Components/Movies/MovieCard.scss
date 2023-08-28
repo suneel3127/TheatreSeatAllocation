@@ -1,0 +1,23 @@
+.movieCard{
+    padding: 15px;
+    margin: 5px;
+    -webkit-transition: -webkit-transform 0.2s;
+	transition: -webkit-transform 0.2s;
+	transition: transform 0.2s;
+	transition: transform 0.2s, -webkit-transform 0.2s;
+}
+.movieCard:hover {
+	-webkit-transform: scale(1.1);
+	        transform: scale(1.1);
+}
+.moviePoster{
+    height: 300px;
+    border-radius: 20px;
+}
+.movieTitle{
+  margin: 10px 0 0 0;
+}
+.movieLink{
+    text-decoration: none !important;
+    color: black;
+}

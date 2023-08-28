@@ -1,0 +1,1679 @@
+{
+    "Movies": [
+      {
+          "Title": "Harry Potter and the Deathly Hallows: Part 2",
+          "Year": "2011",
+          "imdbID": "tt1201607",
+          "id":"tt1201607",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+          "Shows":["9:00 AM","2:00 PM","6:00 PM"],
+          "Rated": "N/A",
+          "Released": "08 Nov 2022",
+          "Runtime": "N/A",
+          "Genre": "Documentary",
+          "Director": "N/A",
+          "Writer": "N/A",
+          "Actors": "Ingrid Seward, Eve Pollard, Ashley Pearson",
+          "Plot": "Harry &amp; Meghan share their side of what went down from their initial match up through their leaving the UK.",
+          "Language": "English",
+          "Country": "United Kingdom",
+          "Awards": "N/A",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "2.9/10"
+              }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "2.9",
+          "imdbVotes": "5,465",
+          "SeatingOptions": [
+              {
+                "Time": "9:00 AM",
+                "Seats": {
+                  "A": [0, 0, 0, 1, 0, 0, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 1, 1, 0, 0, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "2:00 PM",
+                "Seats": {
+                  "A": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "B": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "C": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "D": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "E": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "F": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "6:00 PM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              }
+            ]
+      },
+      {
+          "Title": "Harry Potter and the Sorcerer's Stone",
+          "Year": "2001",
+          "imdbID": "tt0241527",
+          "id":"tt0241527",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SX300.jpg",
+          "Shows":["9:00 AM","2:00 PM","6:00 PM"],
+          "Rated": "N/A",
+          "Released": "08 Nov 2022",
+          "Runtime": "N/A",
+          "Genre": "Documentary",
+          "Director": "N/A",
+          "Writer": "N/A",
+          "Actors": "Ingrid Seward, Eve Pollard, Ashley Pearson",
+          "Plot": "Harry &amp; Meghan share their side of what went down from their initial match up through their leaving the UK.",
+          "Language": "English",
+          "Country": "United Kingdom",
+          "Awards": "N/A",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "2.9/10"
+              }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "2.9",
+          "imdbVotes": "5,465",
+          "SeatingOptions": [
+              {
+                "Time": "9:00 AM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "2:00 PM",
+                "Seats": {
+                  "A": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "B": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "C": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "D": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "E": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "F": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "6:00 PM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              }
+            ]
+      },
+      {
+          "Title": "Harry Potter and the Chamber of Secrets",
+          "Year": "2002",
+          "imdbID": "tt0295297",
+          "id":"tt0295297",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMjE0YjUzNDUtMjc5OS00MTU3LTgxMmUtODhkOThkMzdjNWI4XkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_SX300.jpg",
+          "Shows":["9:00 AM","2:00 PM","6:00 PM"],
+          "Rated": "N/A",
+          "Released": "08 Nov 2022",
+          "Runtime": "N/A",
+          "Genre": "Documentary",
+          "Director": "N/A",
+          "Writer": "N/A",
+          "Actors": "Ingrid Seward, Eve Pollard, Ashley Pearson",
+          "Plot": "Harry &amp; Meghan share their side of what went down from their initial match up through their leaving the UK.",
+          "Language": "English",
+          "Country": "United Kingdom",
+          "Awards": "N/A",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "2.9/10"
+              }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "2.9",
+          "imdbVotes": "5,465",
+          "SeatingOptions": [
+              {
+                "Time": "9:00 AM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+               "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "2:00 PM",
+                "Seats": {
+                  "A": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "B": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "C": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "D": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "E": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "F": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "6:00 PM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              }
+            ]
+      },
+      {
+          "Title": "Harry Potter and the Prisoner of Azkaban",
+          "Year": "2004",
+          "imdbID": "tt0304141",
+          "id":"tt0304141",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_SX300.jpg",
+          "Shows":["9:00 AM","2:00 PM","6:00 PM"],
+          "Rated": "N/A",
+          "Released": "08 Nov 2022",
+          "Runtime": "N/A",
+          "Genre": "Documentary",
+          "Director": "N/A",
+          "Writer": "N/A",
+          "Actors": "Ingrid Seward, Eve Pollard, Ashley Pearson",
+          "Plot": "Harry &amp; Meghan share their side of what went down from their initial match up through their leaving the UK.",
+          "Language": "English",
+          "Country": "United Kingdom",
+          "Awards": "N/A",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "2.9/10"
+              }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "2.9",
+          "imdbVotes": "5,465",
+          "SeatingOptions": [
+              {
+                "Time": "9:00 AM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+               "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "2:00 PM",
+                "Seats": {
+                  "A": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "B": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "C": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "D": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "E": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "F": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "6:00 PM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              }
+            ]
+      },
+      {
+          "Title": "Harry Potter and the Goblet of Fire",
+          "Year": "2005",
+          "imdbID": "tt0330373",
+          "id":"tt0330373",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_SX300.jpg",
+          "Shows":["9:00 AM","2:00 PM","6:00 PM"],
+          "Rated": "N/A",
+          "Released": "08 Nov 2022",
+          "Runtime": "N/A",
+          "Genre": "Documentary",
+          "Director": "N/A",
+          "Writer": "N/A",
+          "Actors": "Ingrid Seward, Eve Pollard, Ashley Pearson",
+          "Plot": "Harry &amp; Meghan share their side of what went down from their initial match up through their leaving the UK.",
+          "Language": "English",
+          "Country": "United Kingdom",
+          "Awards": "N/A",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "2.9/10"
+              }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "2.9",
+          "imdbVotes": "5,465",
+          "SeatingOptions": [
+              {
+                "Time": "9:00 AM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+               "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "2:00 PM",
+                "Seats": {
+                  "A": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "B": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "C": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "D": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "E": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "F": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "6:00 PM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              }
+            ]
+      },
+      {
+          "Title": "Harry Potter and the Order of the Phoenix",
+          "Year": "2007",
+          "imdbID": "tt0373889",
+          "id":"tt0373889",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BOTA3MmRmZDgtOWU1Ny00ZDc5LWFkN2YtNzNlY2UxZmY0N2IyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+          "Shows":["9:00 AM","2:00 PM","6:00 PM"],
+          "Rated": "N/A",
+          "Released": "08 Nov 2022",
+          "Runtime": "N/A",
+          "Genre": "Documentary",
+          "Director": "N/A",
+          "Writer": "N/A",
+          "Actors": "Ingrid Seward, Eve Pollard, Ashley Pearson",
+          "Plot": "Harry &amp; Meghan share their side of what went down from their initial match up through their leaving the UK.",
+          "Language": "English",
+          "Country": "United Kingdom",
+          "Awards": "N/A",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "2.9/10"
+              }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "2.9",
+          "imdbVotes": "5,465",
+          "SeatingOptions": [
+              {
+                "Time": "9:00 AM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+               "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "2:00 PM",
+                "Seats": {
+                  "A": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "B": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "C": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "D": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "E": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "F": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "6:00 PM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              }
+            ]
+      },
+      {
+          "Title": "Harry Potter and the Deathly Hallows: Part 1",
+          "Year": "2010",
+          "imdbID": "tt0926084",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_SX300.jpg",
+          "Shows":["9:00 AM","2:00 PM","6:00 PM"],
+          "Rated": "N/A",
+          "Released": "08 Nov 2022",
+          "id":"tt0926084",
+          "Runtime": "N/A",
+          "Genre": "Documentary",
+          "Director": "N/A",
+          "Writer": "N/A",
+          "Actors": "Ingrid Seward, Eve Pollard, Ashley Pearson",
+          "Plot": "Harry &amp; Meghan share their side of what went down from their initial match up through their leaving the UK.",
+          "Language": "English",
+          "Country": "United Kingdom",
+          "Awards": "N/A",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "2.9/10"
+              }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "2.9",
+          "imdbVotes": "5,465",
+          "SeatingOptions": [
+              {
+                "Time": "9:00 AM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+               "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "2:00 PM",
+                "Seats": {
+                  "A": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "B": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "C": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "D": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "E": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "F": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "6:00 PM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              }
+            ]
+      },
+      {
+          "Title": "Harry Potter and the Half-Blood Prince",
+          "Year": "2009",
+          "imdbID": "tt0417741",
+          "id":"tt0417741",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_SX300.jpg",
+          "Shows":["9:00 AM","2:00 PM","6:00 PM"],
+          "Rated": "N/A",
+          "Released": "08 Nov 2022",
+          "Runtime": "N/A",
+          "Genre": "Documentary",
+          "Director": "N/A",
+          "Writer": "N/A",
+          "Actors": "Ingrid Seward, Eve Pollard, Ashley Pearson",
+          "Plot": "Harry &amp; Meghan share their side of what went down from their initial match up through their leaving the UK.",
+          "Language": "English",
+          "Country": "United Kingdom",
+          "Awards": "N/A",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "2.9/10"
+              }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "2.9",
+          "imdbVotes": "5,465",
+          "SeatingOptions": [
+              {
+                "Time": "9:00 AM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+               "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "2:00 PM",
+                "Seats": {
+                  "A": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "B": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "C": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "D": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "E": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "F": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "6:00 PM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              }
+            ]
+      },
+      {
+          "Title": "When Harry Met Sally...",
+          "Year": "1989",
+          "imdbID": "tt0098635",
+          "id":"tt0098635",
+          "Type": "movie",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@._V1_SX300.jpg",
+          "Shows":["9:00 AM","2:00 PM","6:00 PM"],
+          "Rated": "N/A",
+          "Released": "08 Nov 2022",
+          "Runtime": "N/A",
+          "Genre": "Documentary",
+          "Director": "N/A",
+          "Writer": "N/A",
+          "Actors": "Ingrid Seward, Eve Pollard, Ashley Pearson",
+          "Plot": "Harry &amp; Meghan share their side of what went down from their initial match up through their leaving the UK.",
+          "Language": "English",
+          "Country": "United Kingdom",
+          "Awards": "N/A",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "2.9/10"
+              }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "2.9",
+          "imdbVotes": "5,465",
+          "SeatingOptions": [
+              {
+                "Time": "9:00 AM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+               "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "2:00 PM",
+                "Seats": {
+                  "A": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "B": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "C": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "D": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "E": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "F": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "6:00 PM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              }
+            ]
+      }
+    ],
+    "Series": [
+      {
+          "Title": "Harry & Meghan",
+          "Year": "2022",
+          "imdbID": "tt23900194",
+          "id":"tt23900194",
+          "Type": "series",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ5NzY4M2EtNGEwYy00YzBhLTllMDEtNWQyMGUyOTU2OGNmXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_SX300.jpg",
+          "Shows":["9:00 AM","2:00 PM","6:00 PM"],
+          "Rated": "N/A",
+          "Released": "08 Nov 2022",
+          "Runtime": "N/A",
+          "Genre": "Documentary",
+          "Director": "N/A",
+          "Writer": "N/A",
+          "Actors": "Ingrid Seward, Eve Pollard, Ashley Pearson",
+          "Plot": "Harry &amp; Meghan share their side of what went down from their initial match up through their leaving the UK.",
+          "Language": "English",
+          "Country": "United Kingdom",
+          "Awards": "N/A",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "2.9/10"
+              }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "2.9",
+          "imdbVotes": "5,465",
+          "SeatingOptions": [
+              {
+                "Time": "9:00 AM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+               "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "2:00 PM",
+                "Seats": {
+                  "A": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "B": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "C": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "D": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "E": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "F": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "6:00 PM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              }
+            ]
+      },
+      {
+          "Title": "The Truth About the Harry Quebert Affair",
+          "Year": "2018",
+          "imdbID": "tt7134194",
+          "id":"tt7134194",
+          "Type": "series",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BN2YwMTVlODUtOTJmNi00NzYxLTljMmYtZGFjMzU5ODdlYzE2XkEyXkFqcGdeQXVyNDEwMzM3MTk@._V1_SX300.jpg",
+          "Shows":["9:00 AM","2:00 PM","6:00 PM"],
+          "Rated": "N/A",
+          "Released": "08 Nov 2022",
+          "Runtime": "N/A",
+          "Genre": "Documentary",
+          "Director": "N/A",
+          "Writer": "N/A",
+          "Actors": "Ingrid Seward, Eve Pollard, Ashley Pearson",
+          "Plot": "Harry &amp; Meghan share their side of what went down from their initial match up through their leaving the UK.",
+          "Language": "English",
+          "Country": "United Kingdom",
+          "Awards": "N/A",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "2.9/10"
+              }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "2.9",
+          "imdbVotes": "5,465",
+          "SeatingOptions": [
+              {
+                "Time": "9:00 AM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+               "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "2:00 PM",
+                "Seats": {
+                  "A": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "B": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "C": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "D": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "E": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "F": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "6:00 PM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              }
+            ]
+      },
+      {
+          "Title": "Harry & Meghan: The Complete Story",
+          "Year": "2022–",
+          "imdbID": "tt23016788",
+          "id":"tt23016788",
+          "Type": "series",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BOTdjNGI4MDMtODk2YS00N2Y4LWI1ZDMtOWY5MzJiZDJlMzJmXkEyXkFqcGdeQXVyNjc1OTk4NjA@._V1_SX300.jpg",
+          "Shows":["9:00 AM","2:00 PM","6:00 PM"],
+          "Rated": "N/A",
+          "Released": "08 Nov 2022",
+          "Runtime": "N/A",
+          "Genre": "Documentary",
+          "Director": "N/A",
+          "Writer": "N/A",
+          "Actors": "Ingrid Seward, Eve Pollard, Ashley Pearson",
+          "Plot": "Harry &amp; Meghan share their side of what went down from their initial match up through their leaving the UK.",
+          "Language": "English",
+          "Country": "United Kingdom",
+          "Awards": "N/A",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "2.9/10"
+              }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "2.9",
+          "imdbVotes": "5,465",
+          "SeatingOptions": [
+              {
+                "Time": "9:00 AM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+               "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "2:00 PM",
+                "Seats": {
+                  "A": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "B": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "C": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "D": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "E": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "F": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "6:00 PM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              }
+            ]
+      },
+      {
+          "Title": "Harry Enfield and Chums",
+          "Year": "1994–1999",
+          "imdbID": "tt0108796",
+          "id":"tt0108796",
+          "Type": "series",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BNGY4NGI4OTYtOWQyYS00MzlhLWI3OTYtMzZiNGEyNTg1YzQzXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg",
+          "Shows":["9:00 AM","2:00 PM","6:00 PM"],
+          "Rated": "N/A",
+          "Released": "08 Nov 2022",
+          "Runtime": "N/A",
+          "Genre": "Documentary",
+          "Director": "N/A",
+          "Writer": "N/A",
+          "Actors": "Ingrid Seward, Eve Pollard, Ashley Pearson",
+          "Plot": "Harry &amp; Meghan share their side of what went down from their initial match up through their leaving the UK.",
+          "Language": "English",
+          "Country": "United Kingdom",
+          "Awards": "N/A",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "2.9/10"
+              }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "2.9",
+          "imdbVotes": "5,465",
+          "SeatingOptions": [
+              {
+                "Time": "9:00 AM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+               "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "2:00 PM",
+                "Seats": {
+                  "A": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "B": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "C": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "D": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "E": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "F": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "6:00 PM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              }
+            ]
+      },
+      {
+          "Title": "Harry Wild",
+          "Year": "2022–",
+          "imdbID": "tt14527610",
+          "id":"tt14527610",
+          "Type": "series",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BNWMwMTY4NTAtYWJlNC00ZTNjLTg2ZTEtN2NiNTMwMTQ4MTg2XkEyXkFqcGdeQXVyNDAzNDA0NA@@._V1_SX300.jpg",
+          "Shows":["9:00 AM","2:00 PM","6:00 PM"],
+          "Rated": "N/A",
+          "Released": "08 Nov 2022",
+          "Runtime": "N/A",
+          "Genre": "Documentary",
+          "Director": "N/A",
+          "Writer": "N/A",
+          "Actors": "Ingrid Seward, Eve Pollard, Ashley Pearson",
+          "Plot": "Harry &amp; Meghan share their side of what went down from their initial match up through their leaving the UK.",
+          "Language": "English",
+          "Country": "United Kingdom",
+          "Awards": "N/A",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "2.9/10"
+              }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "2.9",
+          "imdbVotes": "5,465",
+          "SeatingOptions": [
+              {
+                "Time": "9:00 AM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+               "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "2:00 PM",
+                "Seats": {
+                  "A": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "B": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "C": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "D": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "E": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "F": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "6:00 PM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              }
+            ]
+      },
+      {
+          "Title": "Harry Enfield's Television Programme",
+          "Year": "1990–1992",
+          "imdbID": "tt0098817",
+          "id":"tt0098817",
+          "Type": "series",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BNDFlNWZhNzktNWQ0OC00MTM4LWIwN2MtNDA1YjY5YjljZDA5XkEyXkFqcGdeQXVyNjc4NTExMTk@._V1_SX300.jpg",
+          "Shows":["9:00 AM","2:00 PM","6:00 PM"],
+          "Rated": "N/A",
+          "Released": "08 Nov 2022",
+          "Runtime": "N/A",
+          "Genre": "Documentary",
+          "Director": "N/A",
+          "Writer": "N/A",
+          "Actors": "Ingrid Seward, Eve Pollard, Ashley Pearson",
+          "Plot": "Harry &amp; Meghan share their side of what went down from their initial match up through their leaving the UK.",
+          "Language": "English",
+          "Country": "United Kingdom",
+          "Awards": "N/A",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "2.9/10"
+              }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "2.9",
+          "imdbVotes": "5,465",
+          "SeatingOptions": [
+              {
+                "Time": "9:00 AM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+               "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "2:00 PM",
+                "Seats": {
+                  "A": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "B": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "C": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "D": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "E": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "F": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "6:00 PM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              }
+            ]
+      },
+      {
+          "Title": "Harry Potter: Hogwarts Tournament of Houses",
+          "Year": "2021–",
+          "imdbID": "tt15431326",
+          "id":"tt15431326",
+          "Type": "series",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BZDk4M2ZkNDUtMjE4OC00ODQyLTg3ZDgtMDYwZjU1YWE5Y2I1XkEyXkFqcGdeQXVyMzQyMDgzOTU@._V1_SX300.jpg",
+          "Shows":["9:00 AM","2:00 PM","6:00 PM"],
+          "Rated": "N/A",
+          "Released": "08 Nov 2022",
+          "Runtime": "N/A",
+          "Genre": "Documentary",
+          "Director": "N/A",
+          "Writer": "N/A",
+          "Actors": "Ingrid Seward, Eve Pollard, Ashley Pearson",
+          "Plot": "Harry &amp; Meghan share their side of what went down from their initial match up through their leaving the UK.",
+          "Language": "English",
+          "Country": "United Kingdom",
+          "Awards": "N/A",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "2.9/10"
+              }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "2.9",
+          "imdbVotes": "5,465",
+          "SeatingOptions": [
+              {
+                "Time": "9:00 AM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+               "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "2:00 PM",
+                "Seats": {
+                  "A": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "B": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "C": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "D": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "E": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "F": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "6:00 PM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              }
+            ]
+      },
+      {
+          "Title": "Harry and the Hendersons",
+          "Year": "1991–1993",
+          "imdbID": "tt0098818",
+          "id":"tt0098818",
+          "Type": "series",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BOTFjZTI3YTMtNmE4Yy00OGZlLThkYzMtM2VmNzVlZjJhZmE2XkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg",
+          "Shows":["9:00 AM","2:00 PM","6:00 PM"],
+          "Rated": "N/A",
+          "Released": "08 Nov 2022",
+          "Runtime": "N/A",
+          "Genre": "Documentary",
+          "Director": "N/A",
+          "Writer": "N/A",
+          "Actors": "Ingrid Seward, Eve Pollard, Ashley Pearson",
+          "Plot": "Harry &amp; Meghan share their side of what went down from their initial match up through their leaving the UK.",
+          "Language": "English",
+          "Country": "United Kingdom",
+          "Awards": "N/A",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "2.9/10"
+              }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "2.9",
+          "imdbVotes": "5,465",
+          "SeatingOptions": [
+              {
+                "Time": "9:00 AM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+               "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "2:00 PM",
+                "Seats": {
+                  "A": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "B": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "C": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "D": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "E": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "F": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "6:00 PM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              }
+            ]
+      },
+      {
+          "Title": "Ruddy Hell! It's Harry and Paul",
+          "Year": "2007–2014",
+          "imdbID": "tt0976015",
+          "id":"tt0976015",
+          "Type": "series",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4OTc1MjEyNl5BMl5BanBnXkFtZTcwMTE0NDAwMg@@._V1_SX300.jpg",
+          "Shows":["9:00 AM","2:00 PM","6:00 PM"],
+          "Rated": "N/A",
+          "Released": "08 Nov 2022",
+          "Runtime": "N/A",
+          "Genre": "Documentary",
+          "Director": "N/A",
+          "Writer": "N/A",
+          "Actors": "Ingrid Seward, Eve Pollard, Ashley Pearson",
+          "Plot": "Harry &amp; Meghan share their side of what went down from their initial match up through their leaving the UK.",
+          "Language": "English",
+          "Country": "United Kingdom",
+          "Awards": "N/A",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "2.9/10"
+              }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "2.9",
+          "imdbVotes": "5,465",
+          "SeatingOptions": [
+              {
+                "Time": "9:00 AM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+               "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "2:00 PM",
+                "Seats": {
+                  "A": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "B": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "C": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "D": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "E": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "F": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "6:00 PM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              }
+            ]
+      },
+      {
+          "Title": "Harry O",
+          "Year": "1973–1976",
+          "imdbID": "tt0070993",
+          "id":"tt0070993",
+          "Type": "series",
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMjZlNzkzM2MtODExZi00NzZkLWI2N2ItMzBhN2I5ZDY2MzdkXkEyXkFqcGdeQXVyNjA5OTY5OTQ@._V1_SX300.jpg",
+          "Shows":["9:00 AM","2:00 PM","6:00 PM"],
+          "Rated": "N/A",
+          "Released": "08 Nov 2022",
+          "Runtime": "N/A",
+          "Genre": "Documentary",
+          "Director": "N/A",
+          "Writer": "N/A",
+          "Actors": "Ingrid Seward, Eve Pollard, Ashley Pearson",
+          "Plot": "Harry &amp; Meghan share their side of what went down from their initial match up through their leaving the UK.",
+          "Language": "English",
+          "Country": "United Kingdom",
+          "Awards": "N/A",
+          "Ratings": [
+              {
+                  "Source": "Internet Movie Database",
+                  "Value": "2.9/10"
+              }
+          ],
+          "Metascore": "N/A",
+          "imdbRating": "2.9",
+          "imdbVotes": "5,465",
+          "SeatingOptions": [
+              {
+                "Time": "9:00 AM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+               "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "2:00 PM",
+                "Seats": {
+                  "A": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "B": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "C": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "D": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "E": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "F": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              },
+              {
+                "Time": "6:00 PM",
+                "Seats": {
+                  "A": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "B": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "C": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "D": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0],
+                  "E": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+                  "F": [1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+                },
+                "Prices": {
+                  "A": 300,
+                  "B": 300,
+                  "C": 300,
+                  "D": 400,
+                  "E": 400,
+                  "F": 500
+                }
+              }
+            ]
+      }
+    ]
+  
+  }
